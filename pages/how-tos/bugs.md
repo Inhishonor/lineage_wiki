@@ -25,6 +25,7 @@ Please do not:
 - Ask if it is fixed already - if the report is still open it probably is still present!
 - Ask for status updates - we can't provide them (no ETA!)
 - Ping people/maintainers - most of them already check the tracker
+- Post bugs on modified devices, for example devices with many add-ons, or rooted device - those modifications are potentially causes for your issue.
 
 We accept bugs on the following:
 
